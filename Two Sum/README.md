@@ -1,6 +1,6 @@
 ---
-difficulty: Easy
-tags:
+Difficulty: Easy
+Tags:
     - Array
     - Hash Table
 ---
